@@ -2,8 +2,8 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá Sou **Desenvolvedor Front-End** focado em construir interfaces modernas, performáticas e responsivas.  
-Trabalho com **React.js**, **Next.js**, **TypeScript** e **Tailwind CSS**, sempre buscando melhorar a experiência do usuário e escrever código limpo.
+Olá Sou Desenvolvedor Front-End focado em construir interfaces modernas, performáticas e responsivas.  
+Trabalho com React.js, Next.js, TypeScript e Tailwind CSS, sempre buscando melhorar a experiência do usuário e escrever código limpo.
 
 <p align="left">
     <a href="https://github.com/ronizera?tab=followers">
@@ -34,6 +34,14 @@ Trabalho com **React.js**, **Next.js**, **TypeScript** e **Tailwind CSS**, sempr
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Typescript" 
+    title="Typescript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
 />
 <img 
     align="left" 
