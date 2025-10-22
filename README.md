@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Front-End`**
 
-Olá! Sou Ronilton Breno, desenvolvedor front-end e estudante do curso de Engenharia de Software. Tenho me dedicado a criar interfaces modernas e funcionais com HTML, CSS, JavaScript, Tailwind CSS e React.
+Olá Sou **Desenvolvedor Front-End** focado em construir interfaces modernas, performáticas e responsivas.  
+Trabalho com **React.js**, **Next.js**, **TypeScript** e **Tailwind CSS**, sempre buscando melhorar a experiência do usuário e escrever código limpo.
 
 <p align="left">
     <a href="https://github.com/ronizera?tab=followers">
@@ -25,22 +26,7 @@ Olá! Sou Ronilton Breno, desenvolvedor front-end e estudante do curso de Engenh
 
 ### 🤖 Linguagens e Tecnologias
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -65,6 +51,17 @@ Olá! Sou Ronilton Breno, desenvolvedor front-end e estudante do curso de Engenh
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
+
+<img 
+    align="left" 
+    alt="NextJS" 
+    title="NextJS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"
+/>
+
+
 <img 
     align="left" 
     alt="Git" 
