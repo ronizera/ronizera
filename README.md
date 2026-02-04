@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">Front-end Developer focused on React, Next.js and Tailwind CSS.  <br>Building responsive interfaces and real-world projects.  <br>Always learning and improving.</p>
+<p align="left">
+  Full Stack Developer experienced in React, Next.js, and Node.js ecosystems. <br>
+  Developing responsive interfaces and secure, efficient server-side logic. <br>
+  Turning complex requirements into functional, real-world digital solutions.
+</p>
 
 ###
 
