@@ -1,57 +1,37 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, I'm Ronilton Breno 👋
 
-###
+**Full Stack Developer** · Software Engineering student (5th semester) · Vitória da Conquista, Brazil
 
-<p align="left">My name is Roni and I'm Full-Stack Developer</p>
+---
 
-###
+## About me
 
-<h2 align="left">About me</h2>
+I'm a Full Stack Developer in training passionate about building complete, functional web applications — from database modeling to REST APIs and user interfaces. I focus on clean architecture, real authentication flows, and practical problem-solving with TypeScript, Node.js, and PostgreSQL.
 
-###
+---
 
-<p align="left">
-  Full Stack Developer experienced in React, Next.js, and Node.js ecosystems. <br>
-  Developing responsive interfaces and secure, efficient server-side logic. <br>
-  Turning complex requirements into functional, real-world digital solutions.
-</p>
+## Featured projects
 
-###
+| Project | Description | Stack |
+|---|---|---|
+| [FitSchedule](https://github.com/ronizera) | Full stack scheduling system with JWT auth, REST API and PostgreSQL | Node.js · React · Prisma · PostgreSQL |
+| [AuthGuard](https://github.com/ronizera) | Authentication & session management system with secure login flows | TypeScript · JWT · Node.js |
+| [Movie Catalog](https://github.com/ronizera) | App with external API integration and state management in React | React · Next.js · TypeScript |
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/ronilton-breno" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:roniltonbrenodev@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+## Tech stack
 
-<h2 align="left">I code with</h2>
+**Back-end:** Node.js · TypeScript · REST APIs · Prisma · PostgreSQL  
+**Front-end:** React · Next.js · Tailwind CSS  
+**Tools:** Git · GitHub · Vercel  
+**Currently learning:** NestJS · Java · Spring Boot  
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-</div>
+## Connect with me
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ronizera&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=ronizera&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-###
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ronilton-breno.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronilton-breno)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:roniltonbrenodev@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ronizera)
