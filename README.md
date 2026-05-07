@@ -1,37 +1,63 @@
-# Hi, I'm Ronilton Breno 👋
+# Olá, eu sou Ronilton Breno! 👋
 
-**Full Stack Developer** · Software Engineering student (5th semester) · Vitória da Conquista, Brazil
+Desenvolvedor em formação, focado em desenvolvimento web fullstack com experiência em projetos reais de backend e frontend.
+
+## 🚀 Sobre mim
+
+- 🎯 Buscando minha primeira oportunidade como desenvolvedor
+- 📚 Atualmente aprendendo NestJS e Spring Boot
+- 💡 Apaixonado por construir APIs bem estruturadas e interfaces modernas
+
+## 🛠️ Tecnologias
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+
+### Frontend
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Banco de dados
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### Ferramentas
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+## 📂 Projetos
+
+### 🗂️ Estoque API — NestJS
+API REST para controle de estoque com autenticação JWT, validação de dados e integração com banco de dados via Prisma.
+
+**Tecnologias:** NestJS · TypeScript · Prisma · SQLite · JWT
+
+[Ver repositório](https://github.com/ronizera/estoque-api)
 
 ---
 
-## About me
+### 🗂️ Estoque API — Spring Boot
+API REST para controle de estoque com autenticação JWT, Spring Security, validação com DTOs e JPA.
 
-I'm a Full Stack Developer in training passionate about building complete, functional web applications — from database modeling to REST APIs and user interfaces. I focus on clean architecture, real authentication flows, and practical problem-solving with TypeScript, Node.js, and PostgreSQL.
+**Tecnologias:** Java · Spring Boot · Spring Security · JWT · H2
 
----
-
-## Featured projects
-
-| Project | Description | Stack |
-|---|---|---|
-| [FitSchedule](https://github.com/ronizera) | Full stack scheduling system with JWT auth, REST API and PostgreSQL | Node.js · React · Prisma · PostgreSQL |
-| [AuthGuard](https://github.com/ronizera) | Authentication & session management system with secure login flows | TypeScript · JWT · Node.js |
-| [Movie Catalog](https://github.com/ronizera) | App with external API integration and state management in React | React · Next.js · TypeScript |
+[Ver repositório](https://github.com/ronizera/estoque-spring)
 
 ---
 
-## Tech stack
+### 💈 Barbearia — Next.js
+Sistema fullstack de agendamento para barbearia com autenticação por sessão, controle de roles admin/cliente e integração com banco de dados via Prisma.
 
-**Back-end:** Node.js · TypeScript · REST APIs · Prisma · PostgreSQL  
-**Front-end:** React · Next.js · Tailwind CSS  
-**Tools:** Git · GitHub · Vercel  
-**Currently learning:** NestJS · Java · Spring Boot  
+**Tecnologias:** Next.js · TypeScript · Prisma · TailwindCSS
 
----
+## 📊 GitHub Stats
 
-## Connect with me
+![Ronilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronizera&show_icons=true&theme=dark)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://portfolio-ronilton-breno.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ronilton-breno)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:roniltonbrenodev@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/ronizera)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronizera&layout=compact&theme=dark)
