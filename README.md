@@ -33,19 +33,19 @@ Desenvolvedor em formação, focado em desenvolvimento web fullstack com experi�
 
 ## 📂 Projetos
 
-### 🗂️ Estoque API — NestJS
-API REST para controle de estoque com autenticação JWT, validação de dados e integração com banco de dados via Prisma.
+### 💰 Financeiro API — Spring Boot
+API REST para controle financeiro pessoal com autenticação JWT, gerenciamento de contas, categorias, transações, transferências entre contas e resumo financeiro por período.
 
-**Tecnologias:** NestJS · TypeScript · Prisma · SQLite · JWT
+**Tecnologias:** Java · Spring Boot · Spring Security · JWT · H2 · Swagger
 
-[Ver repositório](https://github.com/ronizera/estoque-api)
+[Ver repositório](https://github.com/ronizera/financeiro)
 
 ---
 
-### 🗂️ Estoque API — Spring Boot
-API REST para controle de estoque com autenticação JWT, Spring Security, validação com DTOs e JPA.
+### 📦 Estoque API — Spring Boot
+API REST para controle de estoque com autenticação JWT, gerenciamento de produtos, categorias e movimentações de entrada e saída com histórico.
 
-**Tecnologias:** Java · Spring Boot · Spring Security · JWT · H2
+**Tecnologias:** Java · Spring Boot · Spring Security · JWT · H2 · Swagger
 
 [Ver repositório](https://github.com/ronizera/estoque-spring)
 
