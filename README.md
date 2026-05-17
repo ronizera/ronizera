@@ -51,6 +51,15 @@ API REST para controle de estoque com autenticação JWT, gerenciamento de produ
 
 ---
 
+### 🗂️ Estoque API — NestJS
+API REST para controle de estoque com autenticação JWT, validação de dados e integração com banco de dados via Prisma.
+
+**Tecnologias:** NestJS · TypeScript · Prisma · SQLite · JWT
+
+[Ver repositório](https://github.com/ronizera/estoque-api)
+
+---
+
 ### 💈 Barbearia — Next.js
 Sistema fullstack de agendamento para barbearia com autenticação por sessão, controle de roles admin/cliente e integração com banco de dados via Prisma.
 
@@ -58,6 +67,6 @@ Sistema fullstack de agendamento para barbearia com autenticação por sessão, 
 
 ## 📊 GitHub Stats
 
-![Ronilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronizera&show_icons=true&theme=dark)
+![Ronilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronizera&show_icons=true&theme=dracula)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronizera&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronizera&layout=compact&theme=dracula)
