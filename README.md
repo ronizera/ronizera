@@ -58,7 +58,4 @@ Sistema fullstack de agendamento para barbearia com autenticação por sessão, 
 **Tecnologias:** Next.js · TypeScript · Prisma · TailwindCSS
 
 ## 📊 GitHub Stats
-
-![Ronilton's GitHub stats](https://github-readme-stats.vercel.app/api?username=ronizera&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ronizera&layout=compact&theme=dracula)
+![Ronilton's GitHub stats](https://streak-stats.demolab.com?user=ronizera&theme=dracula)
