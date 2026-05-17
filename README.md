@@ -47,18 +47,10 @@ API REST para controle de estoque com autenticação JWT, gerenciamento de produ
 
 **Tecnologias:** Java · Spring Boot · Spring Security · JWT · H2 · Swagger
 
-[Ver repositório](https://github.com/ronizera/estoque-spring)
+[Ver repositório](https://github.com/ronizera/estoque-java)
 
 ---
 
-### 🗂️ Estoque API — NestJS
-API REST para controle de estoque com autenticação JWT, validação de dados e integração com banco de dados via Prisma.
-
-**Tecnologias:** NestJS · TypeScript · Prisma · SQLite · JWT
-
-[Ver repositório](https://github.com/ronizera/estoque-api)
-
----
 
 ### 💈 Barbearia — Next.js
 Sistema fullstack de agendamento para barbearia com autenticação por sessão, controle de roles admin/cliente e integração com banco de dados via Prisma.
